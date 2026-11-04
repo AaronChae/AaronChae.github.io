@@ -4,7 +4,6 @@
   color: "#1f5fbf"
 - label: Conference
   color: "#2e7d32"
-
 # Uncomment when the first preprint (abbr = {arXiv}) is on the list:
 # - label: Preprint
 #   color: "#6c757d"
