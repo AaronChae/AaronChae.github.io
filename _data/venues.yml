@@ -1,12 +1,15 @@
 # Badge colors on the publications list (key = abbr in _bibliography/papers.bib)
-# Journal papers: blue / Conference papers: green (legend: _data/pub_types.yml)
-# "color: #ffffff !important" keeps the badge text white in dark mode too.
+# Journal: blue / Conference: green / Preprint (arXiv): gray. Legend: _data/pub_types.yml
+# The extra "color" and "--global-text-color" parts keep the badge text white in light and dark mode.
 
 "Energies":
-  color: "#1f5fbf; color: #ffffff !important"
+  color: "#1f5fbf; color: #ffffff !important; --global-text-color: #ffffff"
 
 "AIK":
-  color: "#2e7d32; color: #ffffff !important"
+  color: "#2e7d32; color: #ffffff !important; --global-text-color: #ffffff"
 
 "IAQVEC":
-  color: "#2e7d32; color: #ffffff !important"
+  color: "#2e7d32; color: #ffffff !important; --global-text-color: #ffffff"
+
+"arXiv":
+  color: "#6c757d; color: #ffffff !important; --global-text-color: #ffffff"
