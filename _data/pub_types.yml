@@ -1,0 +1,6 @@
+# Legend shown above the publication lists (_includes/pub_legend.liquid).
+# Keep these colors in sync with _data/venues.yml.
+- label: Journal
+  color: "#1f5fbf"
+- label: Conference
+  color: "#2e7d32"

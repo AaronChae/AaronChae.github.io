@@ -1,11 +1,12 @@
 # Badge colors on the publications list (key = abbr in _bibliography/papers.bib)
-# Journal papers: blue / Conference papers: green
+# Journal papers: blue / Conference papers: green (legend: _data/pub_types.yml)
+# "color: #ffffff !important" keeps the badge text white in dark mode too.
 
 "Energies":
-  color: "#1f5fbf"
+  color: "#1f5fbf; color: #ffffff !important"
 
 "AIK":
-  color: "#2e7d32"
+  color: "#2e7d32; color: #ffffff !important"
 
 "IAQVEC":
-  color: "#2e7d32"
+  color: "#2e7d32; color: #ffffff !important"
