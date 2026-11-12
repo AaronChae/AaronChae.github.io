@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-I am **Myeongwon (Aaron) Chae**, a second-year Ph.D. student in the [School of Architecture](https://arch.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu).
+I am **Myeongwon (Aaron) Chae**, a second-year Ph.D. student in the [School of Architecture](https://arch.illinois.edu) at the [University of Illinois Urbana-Champaign](https://illinois.edu), advised by Prof. [Yun Kyu Yi](https://arch.illinois.edu/people/profiles/yun-kyu-yi/). I am a member of the [Responsive Architecture Lab (RAL)](https://publish.illinois.edu/responsivearchitecturelab/).
 
 My research focuses on **machine learning and large language models for building energy performance and retrofit decision support**. My recent work applies retrieval-augmented large language models to building retrofit recommendations, combining energy consumption data with technical documents, and develops data-driven methods that use smart thermostat data to assess HVAC system sizing and operational efficiency.
 
