@@ -13,5 +13,5 @@ overrides:
     gem_version: 1.0.15
     upstream_path: _includes/selected_papers.liquid
     upstream_sha256: 2ea68b7784ce9638aa1f4f81c4fd2508f05c315bad0cf6c63223fe526de1e364
-    local_sha256: 500d78a7e7d237b15a5f9cdab2526698b8de53a54215e084bef89094adb9f42b
+    local_sha256: 244a9178e0cd2778bc87aa20c80e0253e00b50e2d6935475bccc46ea78809182
     acknowledged_at: "2026-11-12"
