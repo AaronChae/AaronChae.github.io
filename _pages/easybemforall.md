@@ -28,4 +28,4 @@ It is still in development. The demo below shows the current version.
 
 <video src="{{ '/assets/video/easybem-demo.mp4' | relative_url }}" class="img-fluid rounded z-depth-1" controls controlslist="nodownload" preload="metadata" playsinline oncontextmenu="return false;" title="EasyBEMforAll demo video"></video>
 
-<p class="small text-muted">The demo video and the text on this page are &copy; 2026 Myeongwon (Aaron) Chae. Please do not copy, screen-record, or repost them without my permission.</p>
+<p class="small text-muted">The demo video and the text on this page are &copy; 2026 Myeongwon Chae. Please do not copy, screen-record, or repost them without my permission.</p>
